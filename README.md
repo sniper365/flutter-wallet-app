@@ -1,4 +1,4 @@
-# Crypto Wallet
+# Flutter Crypto Wallet
 
 ![coverage][coverage_badge]
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
@@ -26,14 +26,6 @@ $ flutter run --flavor staging --target lib/main_staging.dart
 # Production
 $ flutter run --flavor production --target lib/main_production.dart
 ```
-
-## 📸 Screen Shots
-
-<p float="left">
-<img src="https://github.com/tommydprogrammer/crypto_wallet_app/blob/main/screenshots/import_token.png?raw=true" width="200">
-</p>
-
-
 
 [coverage_badge]: coverage_badge.svg
 [flutter_localizations_link]: https://api.flutter.dev/flutter/flutter_localizations/flutter_localizations-library.html
